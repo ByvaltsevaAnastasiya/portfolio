@@ -9,7 +9,7 @@ import posterMagicKitchen from "@/assets/poster-magic-kitchen-new.png";
 import posterHanselSleepingBeauty from "@/assets/poster-hansel-sleeping-beauty.png";
 import posterGuardians from "@/assets/poster-snow-queen-guardians-new.png";
 import posterHeroesArctic from "@/assets/poster-heroes-arctic.png";
-import posterTurtles from "@/assets/poster-turtles.jpg";
+import posterTurtles from "@/assets/poster-turtles-new.png";
 
 interface Project {
   title: string;
